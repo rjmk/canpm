@@ -1,0 +1,19 @@
+{
+  "name": "canpm",
+  "version": "0.0.0",
+  "description": "content-addressed npm",
+  "repository": "rjmk/canpm",
+  "bin": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "content-addressed",
+    "npm"
+  ],
+  "preferGlobal": true,
+  "author": "rjmk",
+  "license": "ISC"
+}
